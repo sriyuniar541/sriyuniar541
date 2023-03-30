@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sri Yuniar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1n5SAmRvunZvpteKLxFHpoU58pzTkV-Jzm1ohZ8U5UUk/edit?usp=drivesdk](https://docs.google.com/document/d/1n5SAmRvunZvpteKLxFHpoU58pzTkV-Jzm1ohZ8U5UUk/edit?usp=drivesdk)
+
+- 📫 How to reach me **sriyuniar541@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriyuniar541&show_icons=true&locale=en&layout=compact" alt="sriyuniar541" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriyuniar541&show_icons=true&locale=en" alt="sriyuniar541" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriyuniar541&" alt="sriyuniar541" /></p>
-
