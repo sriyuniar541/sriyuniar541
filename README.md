@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Yuniar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://sriyuniar541.github.io/portofolio_Sri/](https://sriyuniar541.github.io/portofolio_Sri/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sriyuniar541.github.io/portofolio_Sri/)
 
 - 📫 How to reach me **sriyuniar541@gmail.com**
 
